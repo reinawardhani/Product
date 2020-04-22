@@ -1,0 +1,17 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "buat product",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-validator": "^5.3.0"
+  },
+  "author": "Reina Wardhani",
+  "license": "ISC"
+}
